@@ -1,0 +1,20 @@
+{
+  "FolderOrderSettings":[
+    {"name":"group1","order":15,"path":"folders/group1.yy",},
+    {"name":"sprite","order":1,"path":"folders/sprite.yy",},
+  ],
+  "ResourceOrderSettings":[
+    {"name":"bg1","order":1,"path":"objects/bg1/bg1.yy",},
+    {"name":"Object6","order":13,"path":"objects/Object6/Object6.yy",},
+    {"name":"oFlag","order":6,"path":"objects/oFlag/oFlag.yy",},
+    {"name":"oPlatform","order":8,"path":"objects/oPlatform/oPlatform.yy",},
+    {"name":"oPlayer","order":4,"path":"objects/oPlayer/oPlayer.yy",},
+    {"name":"oSolid","order":11,"path":"objects/oSolid/oSolid.yy",},
+    {"name":"oSpikes","order":10,"path":"objects/oSpikes/oSpikes.yy",},
+    {"name":"Room2","order":12,"path":"rooms/Room2/Room2.yy",},
+    {"name":"sFlag","order":5,"path":"sprites/sFlag/sFlag.yy",},
+    {"name":"sPlatform","order":7,"path":"sprites/sPlatform/sPlatform.yy",},
+    {"name":"sPlayer","order":2,"path":"sprites/sPlayer/sPlayer.yy",},
+    {"name":"sSpikes","order":9,"path":"sprites/sSpikes/sSpikes.yy",},
+  ],
+}
