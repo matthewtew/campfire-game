@@ -13,3 +13,4 @@ if keyboard_check(vk_right) { // if the right arrow key is pressed
 x += x_speed; 
 
 y += y_speed;
+}
