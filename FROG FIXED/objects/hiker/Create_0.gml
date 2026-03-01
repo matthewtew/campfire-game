@@ -4,4 +4,7 @@ y_speed = 0;
 
 movement_speed = 4; 
 
-grav = 0.5; // don't c`ll this gravity! that's a built-in gamemaker variable used for something else
+grav = 0.5; 
+
+score = 0; 
+score_timer = 0;

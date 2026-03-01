@@ -43,3 +43,10 @@ if (y > room_height + 500 or y < -200 or x > room_width + 50 or x < -50) { room_
 
 
 
+score_timer += 1;
+
+if (score_timer >= room_speed * 2) { // 2 seconds
+    score += 1;
+    score_timer = 0;
+}
+
