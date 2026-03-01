@@ -1,6 +1,6 @@
 x_speed = 0; // reset horizontal speed 
 
-y_speed += grav; // add gravity to y_speed
+//y_speed += grav; // add gravity to y_speed
 
 if keyboard_check(vk_right) { // if the right arrow key is pressed
 
