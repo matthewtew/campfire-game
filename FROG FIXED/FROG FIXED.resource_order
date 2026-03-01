@@ -17,6 +17,7 @@
     {"name":"Timelines","order":8,"path":"folders/Timelines.yy",},
   ],
   "ResourceOrderSettings":[
+    {"name":"Object11","order":10,"path":"objects/Object11/Object11.yy",},
     {"name":"Object2","order":1,"path":"objects/Object2/Object2.yy",},
     {"name":"oBlockwleaaf","order":3,"path":"objects/oBlockwleaaf/oBlockwleaaf.yy",},
     {"name":"oCrystal1","order":4,"path":"objects/oCrystal1/oCrystal1.yy",},

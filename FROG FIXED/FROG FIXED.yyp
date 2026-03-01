@@ -36,6 +36,7 @@
   "name":"FROG FIXED",
   "resources":[
     {"id":{"name":"hiker","path":"objects/hiker/hiker.yy",},},
+    {"id":{"name":"Object11","path":"objects/Object11/Object11.yy",},},
     {"id":{"name":"Object2","path":"objects/Object2/Object2.yy",},},
     {"id":{"name":"oBlockwleaaf","path":"objects/oBlockwleaaf/oBlockwleaaf.yy",},},
     {"id":{"name":"oCrystal1","path":"objects/oCrystal1/oCrystal1.yy",},},
@@ -46,6 +47,7 @@
     {"id":{"name":"oTree1","path":"objects/oTree1/oTree1.yy",},},
     {"id":{"name":"oTree2","path":"objects/oTree2/oTree2.yy",},},
     {"id":{"name":"Room","path":"rooms/Room/Room.yy",},},
+    {"id":{"name":"snd_music","path":"sounds/snd_music/snd_music.yy",},},
     {"id":{"name":"b3","path":"sprites/b3/b3.yy",},},
     {"id":{"name":"backround","path":"sprites/backround/backround.yy",},},
     {"id":{"name":"backround2","path":"sprites/backround2/backround2.yy",},},
