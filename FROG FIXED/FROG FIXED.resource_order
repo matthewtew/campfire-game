@@ -23,5 +23,7 @@
     {"name":"backround2","order":5,"path":"sprites/backround2/backround2.yy",},
     {"name":"Sprite1","order":2,"path":"sprites/Sprite1/Sprite1.yy",},
     {"name":"Sprite3","order":4,"path":"sprites/Sprite3/Sprite3.yy",},
+    {"name":"Sprite6","order":16,"path":"sprites/Sprite6/Sprite6.yy",},
+    {"name":"Sprite7","order":6,"path":"sprites/Sprite7/Sprite7.yy",},
   ],
 }
