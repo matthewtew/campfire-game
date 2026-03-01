@@ -35,6 +35,7 @@
     {"name":"sCrystal2","order":7,"path":"sprites/sCrystal2/sCrystal2.yy",},
     {"name":"sCrystal3","order":8,"path":"sprites/sCrystal3/sCrystal3.yy",},
     {"name":"sHiker","order":2,"path":"sprites/sHiker/sHiker.yy",},
+    {"name":"Sprite15","order":14,"path":"sprites/Sprite15/Sprite15.yy",},
     {"name":"Sprite6","order":16,"path":"sprites/Sprite6/Sprite6.yy",},
     {"name":"sShroom","order":12,"path":"sprites/sShroom/sShroom.yy",},
     {"name":"sShroom2","order":13,"path":"sprites/sShroom2/sShroom2.yy",},
