@@ -37,6 +37,7 @@
   "resources":[
     {"id":{"name":"hiker","path":"objects/hiker/hiker.yy",},},
     {"id":{"name":"Object2","path":"objects/Object2/Object2.yy",},},
+    {"id":{"name":"oSolid","path":"objects/oSolid/oSolid.yy",},},
     {"id":{"name":"Room","path":"rooms/Room/Room.yy",},},
     {"id":{"name":"b3","path":"sprites/b3/b3.yy",},},
     {"id":{"name":"backround","path":"sprites/backround/backround.yy",},},
