@@ -1,9 +1,9 @@
 {
   "$GMObject":"",
-  "%Name":"oTree2",
+  "%Name":"oBottomrock",
   "eventList":[],
   "managed":true,
-  "name":"oTree2",
+  "name":"oBottomrock",
   "overriddenProperties":[],
   "parent":{
     "name":"Objects",
@@ -28,8 +28,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"sTree2",
-    "path":"sprites/sTree2/sTree2.yy",
+    "name":"sbottomrock",
+    "path":"sprites/sbottomrock/sbottomrock.yy",
   },
   "spriteMaskId":null,
   "visible":true,
