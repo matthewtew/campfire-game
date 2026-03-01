@@ -10,8 +10,8 @@
     "path":"folders/Objects.yy",
   },
   "parentObjectId":{
-    "name":"oSolid",
-    "path":"objects/oSolid/oSolid.yy",
+    "name":"Object2",
+    "path":"objects/Object2/Object2.yy",
   },
   "persistent":false,
   "physicsAngularDamping":0.1,

@@ -1,3 +1,12 @@
+// If standing on a moving block, move with it
+var plat = instance_place(x, y + 1, oSolid);
+if (plat != noone) {
+    // Move the player by the platform's movement amount
+    y += (plat.y - plat.yprevious);
+
+    // Optional: tiny extra lift to avoid clipping
+    y -= 0.05;
+}
 // Reset horizontal speed
 x_speed = 0;
 
@@ -34,6 +43,8 @@ if (place_meeting(x, y + y_speed, oSolid)) {
     while (!place_meeting(x, y + sign(y_speed), oSolid)) {
         y += sign(y_speed);
     }
+	
+	
     y_speed = 0;
 }
 y += y_speed;
