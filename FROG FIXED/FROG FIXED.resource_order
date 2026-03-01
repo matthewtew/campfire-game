@@ -36,6 +36,7 @@
     {"name":"sHiker","order":2,"path":"sprites/sHiker/sHiker.yy",},
     {"name":"Sprite6","order":16,"path":"sprites/Sprite6/Sprite6.yy",},
     {"name":"sShroom","order":12,"path":"sprites/sShroom/sShroom.yy",},
+    {"name":"sShroom2","order":13,"path":"sprites/sShroom2/sShroom2.yy",},
     {"name":"sTree1","order":6,"path":"sprites/sTree1/sTree1.yy",},
     {"name":"sTree2","order":10,"path":"sprites/sTree2/sTree2.yy",},
   ],
