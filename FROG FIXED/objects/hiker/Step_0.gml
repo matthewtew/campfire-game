@@ -39,11 +39,7 @@ if (place_meeting(x, y + y_speed, oSolid)) {
 y += y_speed;
 
 
-if (y > room_height or y < -1 or x > room_width or x < 0) { // if the player is outside of the room
-
-    room_restart(); 
-
-}
+if (y > room_height + 500 or y < -200 or x > room_width + 50 or x < -50) { room_restart(); }
 
 
 
