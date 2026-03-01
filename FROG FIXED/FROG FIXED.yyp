@@ -36,12 +36,14 @@
   },
   "name":"FROG FIXED",
   "resources":[
+
     {"id":{"name":"hiker","path":"objects/hiker/hiker.yy",},},
     {"id":{"name":"Object2","path":"objects/Object2/Object2.yy",},},
     {"id":{"name":"Room","path":"rooms/Room/Room.yy",},},
     {"id":{"name":"backround","path":"sprites/backround/backround.yy",},},
     {"id":{"name":"Sprite1","path":"sprites/Sprite1/Sprite1.yy",},},
     {"id":{"name":"Sprite3","path":"sprites/Sprite3/Sprite3.yy",},},
+
   ],
   "resourceType":"GMProject",
   "resourceVersion":"2.0",
