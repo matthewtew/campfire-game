@@ -1,3 +1,3 @@
 draw_set_color(c_navy);
-draw_text(room_width - 150, 20, "Score: " + string(score));
+draw_text(room_width - 200, 40, "Score: " + string(score));
 
