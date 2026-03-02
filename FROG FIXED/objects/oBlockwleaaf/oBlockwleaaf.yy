@@ -1,7 +1,10 @@
 {
   "$GMObject":"",
   "%Name":"oBlockwleaaf",
-  "eventList":[],
+  "eventList":[
+    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
+    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":3,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
+  ],
   "managed":true,
   "name":"oBlockwleaaf",
   "overriddenProperties":[],
@@ -10,8 +13,8 @@
     "path":"folders/Objects.yy",
   },
   "parentObjectId":{
-    "name":"Object2",
-    "path":"objects/Object2/Object2.yy",
+    "name":"oSolid",
+    "path":"objects/oSolid/oSolid.yy",
   },
   "persistent":false,
   "physicsAngularDamping":0.1,
